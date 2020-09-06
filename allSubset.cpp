@@ -1,5 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
+
 //program to generate all subset from 1 to n(input)
 void allSubsets(int n){
 	for(int i=0;i<(1<<n);i++){

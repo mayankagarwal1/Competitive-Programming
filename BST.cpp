@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 #define ll long long
-//this is bst 
+//Implementation of BST
 using namespace std;
 class Node{
    
